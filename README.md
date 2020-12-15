@@ -1,4 +1,4 @@
-Proof of concept for dynamically changing logging levels in a running app with the Watchdog library
+
 
 1. Install Watchdog (https://pypi.org/project/watchdog/)
 2. Run watchdog_mod.py
